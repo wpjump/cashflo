@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Basic Guitar Chords",
+    "description": "Learn the essential open chords for beginners including C, G, D, Em, and A.",
+    "url": "https://www.ultimate-guitar.com/lessons/for_beginners/basic_guitar_chords.html",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Guitar_Chords.jpg/800px-Guitar_Chords.jpg"
+  },
+  {
+    "title": "Strumming Patterns for Acoustic",
+    "description": "Master rhythmic strumming to play popular songs with ease and groove.",
+    "url": "https://www.guitarlessons.com/guitar-lessons/guitar-strumming-patterns",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Strumming_a_Guitar.jpg/800px-Strumming_a_Guitar.jpg"
+  },
+  {
+    "title": "Fingerstyle Guitar for Beginners",
+    "description": "A complete guide to start playing fingerstyle with simple patterns and exercises.",
+    "url": "https://www.fingerstyleguitar.org/lessons/fingerpicking-basics/",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fingerstyle_Guitar.jpg/800px-Fingerstyle_Guitar.jpg"
+  }
+]
