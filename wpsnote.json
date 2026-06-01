@@ -1,15 +1,22 @@
 {
   "small": {
-    "title": "WarungKit Premium",
-    "cta": "Upgrade",
-    "iconUrl": "https://example.com/icon.png",
-    "clickUrl": "https://play.google.com/store/apps/details?id=com.yourapp.pro"
+    "title": "Upgrade Pro",
+    "cta": "Beli",
+    "iconUrl": "https://...",
+    "clickUrl": "https://..."
+  },
+  "medium": {
+    "title": "Maksimalkan Kasir Anda",
+    "desc": "Cetak nota dengan logo, multi-user, dan backup tanpa batas.",
+    "cta": "Coba Gratis",
+    "imageUrl": "https://...",
+    "clickUrl": "https://..."
   },
   "interstitial": {
     "title": "Tingkatkan Omset UMKM Anda!",
-    "desc": "Dapatkan fitur Ekspor Laporan, Multi-User, dan hilangkan semua iklan dengan WarungKit Premium.",
-    "cta": "Coba Sekarang",
-    "imageUrl": "https://example.com/promo_banner.png",
-    "clickUrl": "https://play.google.com/store/apps/details?id=com.yourapp.pro"
+    "desc": "Dapatkan fitur Ekspor Laporan dengan WarungKit Premium.",
+    "cta": "Lihat Detail",
+    "imageUrl": "https://...",
+    "clickUrl": "https://..."
   }
 }
