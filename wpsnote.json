@@ -1,22 +1,31 @@
-{
-  "small": {
-    "title": "Upgrade Pro",
-    "cta": "Beli",
-    "iconUrl": "https://...",
-    "clickUrl": "https://..."
-  },
-  "medium": {
-    "title": "Maksimalkan Kasir Anda",
-    "desc": "Cetak nota dengan logo, multi-user, dan backup tanpa batas.",
-    "cta": "Coba Gratis",
-    "imageUrl": "https://...",
-    "clickUrl": "https://..."
-  },
-  "interstitial": {
-    "title": "Tingkatkan Omset UMKM Anda!",
-    "desc": "Dapatkan fitur Ekspor Laporan dengan WarungKit Premium.",
-    "cta": "Lihat Detail",
-    "imageUrl": "https://...",
-    "clickUrl": "https://..."
+[
+  {
+    "small": {
+      "title": "Upgrade Pro",
+      "cta": "Beli",
+      "iconUrl": "https://via.placeholder.com/150x150",
+      "clickUrl": "app://pro_offer"
+    },
+    "medium": {
+      "title": "Maksimalkan Kasir Anda",
+      "desc": "Cetak nota dengan logo, multi-user, dan backup tanpa batas.",
+      "cta": "Coba Gratis",
+      "imageUrl": "https://via.placeholder.com/300x250",
+      "clickUrl": "app://pro_offer"
+    },
+    "large": {
+      "title": "Maksimalkan Kasir Anda",
+      "desc": "Cetak nota dengan logo, multi-user, dan backup tanpa batas.",
+      "cta": "Coba Gratis",
+      "imageUrl": "https://via.placeholder.com/320x150",
+      "clickUrl": "app://pro_offer"
+    },
+    "interstitial": {
+      "title": "Tingkatkan Omset UMKM Anda!",
+      "desc": "Dapatkan fitur Ekspor Laporan dengan WarungKit Premium.",
+      "cta": "Lihat Detail",
+      "imageUrl": "https://via.placeholder.com/320x480",
+      "clickUrl": "app://pro_offer"
+    }
   }
-}
+]
